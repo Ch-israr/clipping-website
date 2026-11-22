@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:03,120
+End core segment for surprise, emotion
+
+2
+00:00:03,120 --> 00:00:05,400
+and usefulness, and keep only the
+
+3
+00:00:05,400 --> 00:00:06,420
+strongest moments.
+

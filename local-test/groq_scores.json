@@ -1,0 +1,53 @@
+{
+ "windows": [
+  {
+   "id": "w0",
+   "start": 0.0,
+   "end": 5.06,
+   "score": 30,
+   "reason": "Introductory greeting with no strong hook, low immediate engagement"
+  },
+  {
+   "id": "w1",
+   "start": 5.06,
+   "end": 11.3,
+   "score": 65,
+   "reason": "Promises a free, automatic method, creating curiosity and value"
+  },
+  {
+   "id": "w2",
+   "start": 11.66,
+   "end": 17.26,
+   "score": 70,
+   "reason": "Highlights crucial hook timing, actionable tip that resonates with creators"
+  },
+  {
+   "id": "w3",
+   "start": 17.26,
+   "end": 22.08,
+   "score": 45,
+   "reason": "Technical step of transcription, less visually engaging"
+  },
+  {
+   "id": "w4",
+   "start": 22.46,
+   "end": 28.88,
+   "score": 75,
+   "reason": "Emphasizes surprise, emotion, usefulness\u2014key viral ingredients"
+  },
+  {
+   "id": "w5",
+   "start": 29.58,
+   "end": 32.24,
+   "score": 60,
+   "reason": "Mentions vertical format, relevant for short\u2011form platforms"
+  },
+  {
+   "id": "w6",
+   "start": 32.58,
+   "end": 38.94,
+   "score": 55,
+   "reason": "Wrap\u2011up with technical details, moderate interest"
+  }
+ ]
+}

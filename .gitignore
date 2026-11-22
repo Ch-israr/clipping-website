@@ -1,0 +1,30 @@
+# Secrets — never commit
+.env
+*.env
+*.pem
+*.key
+credentials*.json
+
+# OpenShorts runtime
+openshorts/output/
+openshorts/.env
+openshorts/uploads/
+openshorts/*.db
+openshorts/*.sqlite3
+openshorts/__pycache__/
+openshorts/**/__pycache__/
+openshorts/*.log
+
+# Python / Node
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+openshorts/dashboard/node_modules/
+openshorts/dashboard/dist/
+
+# OS / editor
+.DS_Store
+*.log
+.vscode/
